@@ -22,7 +22,7 @@ To follow this project, please install the following locally:
 
 ## Dataset
 
-We'll download our dataset from NOAA, a US government agency.  You can follow these instructions to download the data:
+We will download our dataset from NOAA, a US government agency.  You can follow these instructions to download the data:
 
 * Go to [NOAA Search](https://www.ncdc.noaa.gov/cdo-web/search)
 * Enter the years you want the data for, and search for the closest airport to you.
