@@ -32,5 +32,5 @@ We will download our dataset from NOAA, a US government agency.  You can follow 
 * Select the csv format and click continue.
 * Select all of the checkboxes for data types.
 * Enter your email and click continue.
-* You'll get an email with a link to download the data.
+* You will get an email with a link to download the data.
 * Make sure to take a look at the [data documentation](https://www1.ncdc.noaa.gov/pub/data/cdo/documentation/GHCND_documentation.pdf) as well.
