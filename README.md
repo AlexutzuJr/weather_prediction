@@ -12,7 +12,7 @@ In this project, our goal is to predict tomorrow's temperature using historical 
 
 ## Installation
 
-To follow this project, please install the following locally:
+To follow this project, we will need to install the following locally:
 
 * JupyerLab
 * Python 3.8+
