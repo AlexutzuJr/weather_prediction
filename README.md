@@ -25,7 +25,7 @@ To follow this project, please install the following locally:
 We'll download our dataset from NOAA, a US government agency.  You can follow these instructions to download the data:
 
 * Go to [NOAA Search](https://www.ncdc.noaa.gov/cdo-web/search)
-* Enter the years you want data for (I recommend starting with 1970), and search for the closest airport to you.
+* Enter the years you want the data for, and search for the closest airport to you.
 * Click add to cart on the airport you want.
     * If there is no airport near you, try your city or country name instead.
 * Go to the [cart](https://www.ncdc.noaa.gov/cdo-web/cart)
